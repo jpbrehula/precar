@@ -1,0 +1,16 @@
+{
+  "name": "precar",
+  "version": "1.0.0",
+  "description": "Precar é uma plataforma de pré-compra automotiva guiada por IA, projetada para ajudar os compradores de carros a fazerem uma inspeção completa e técnica antes de realizar a compra, gerando um laudo detalhado e seguro.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
